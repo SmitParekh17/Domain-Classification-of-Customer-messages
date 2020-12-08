@@ -1,0 +1,2 @@
+# Domain-Classification-of-Customer-messages
+We have with us the dataset of Haptik containing the messages it receives from the customers and which topic(class) the messages refer to.  We need to create a model predicting which class a particular message belongs to using NLP. We will also try to use techniques like LSA (Latent Semantic Analysis) and LDA (Latent Dirichlet Allocation) to assign topics to new messages.
